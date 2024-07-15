@@ -1,0 +1,6 @@
+llama-index
+llama-index-llms-ollama
+llama-index-vector-stores-qdrant
+llama-index-embeddings-ollama
+llama-index-readers-file
+qdrant-client
